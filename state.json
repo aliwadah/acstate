@@ -1,1 +1,1 @@
-{"ok": true, "soc": 50.0, "ac_on": false, "charge_w": 0.0, "discharge_w": 338.0, "load_w": 288.0, "solar_w": 0.0, "guard": null, "updated": "2026-10-06T11:41:40Z", "pmessages": ["monitor pass done"], "source": "gh"}
+{"ok": false, "soc": null, "ac_on": null, "charge_w": null, "discharge_w": null, "load_w": null, "solar_w": null, "guard": null, "error": "Expecting value: line 1 column 1 (char 0)", "updated": "2026-10-06T11:46:58Z", "pmessages": [], "source": "gh"}
