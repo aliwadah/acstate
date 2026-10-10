@@ -1,1 +1,1 @@
-{"ok": false, "soc": null, "ac_on": null, "charge_w": null, "discharge_w": null, "load_w": null, "solar_w": null, "guard": null, "error": "No battery SOC attribute found.", "updated": "2026-10-10T17:40:17Z", "pmessages": [], "source": "gh"}
+{"ok": true, "soc": 92.0, "ac_on": false, "charge_w": 0.0, "discharge_w": 53.8, "load_w": 44.0, "solar_w": 0.0, "guard": null, "updated": "2026-10-10T17:41:18Z", "pmessages": ["monitor pass done"], "source": "gh"}
