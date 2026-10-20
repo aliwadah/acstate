@@ -1,1 +1,1 @@
-{"ok": false, "soc": null, "ac_on": null, "charge_w": null, "discharge_w": null, "load_w": null, "solar_w": null, "guard": null, "error": "The read operation timed out", "updated": "2026-10-20T06:05:58Z", "pmessages": [], "source": "gh"}
+{"ok": false, "soc": null, "ac_on": null, "charge_w": null, "discharge_w": null, "load_w": null, "solar_w": null, "guard": null, "error": "The read operation timed out", "updated": "2026-10-20T06:11:45Z", "pmessages": [], "source": "gh"}
