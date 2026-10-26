@@ -1,1 +1,1 @@
-{"ok": true, "soc": 81.0, "ac_on": false, "charge_w": 1995.1, "discharge_w": 0.0, "load_w": 131.0, "solar_w": 2107.0, "guard": null, "updated": "2026-10-26T08:59:04Z", "pmessages": ["monitor pass done"], "source": "gh"}
+{"ok": true, "soc": 84.0, "ac_on": false, "charge_w": 1618.2, "discharge_w": 0.0, "load_w": 162.0, "solar_w": 1688.0, "guard": null, "updated": "2026-10-26T09:04:29Z", "pmessages": ["monitor pass done"], "source": "gh"}
