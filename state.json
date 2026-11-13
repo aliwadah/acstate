@@ -1,1 +1,1 @@
-{"ok": true, "soc": 90.0, "ac_on": false, "charge_w": 687.5, "discharge_w": 0.0, "load_w": 268.0, "solar_w": 878.0, "guard": null, "updated": "2026-11-13T12:23:07Z", "pmessages": ["monitor pass done"], "source": "gh"}
+{"ok": false, "soc": null, "ac_on": null, "charge_w": null, "discharge_w": null, "load_w": null, "solar_w": null, "guard": null, "error": "The read operation timed out", "updated": "2026-11-13T19:58:09Z", "pmessages": [], "source": "gh"}
